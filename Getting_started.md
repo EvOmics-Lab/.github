@@ -50,17 +50,17 @@ You will get a laptop on your first day. It usually has Windows installed, if yo
 
 - [x] Prepare a bootable ubuntu USB 
 
-You need to activate Heimdal. This will grant you temporary administrator rights for 30 minute. You can activate Heimdal by right-clicking the blue Heimdal icon in the bottom right corner of your screen and selecting "Privileges App Control - "Request Admin Privileges.” Then, enter your auID@uni.au.dk and AU-password, when you run a program as administrator. For more information, check this link:  https://medarbejdere.au.dk/en/administration/it/guides/security/activate-admin-rights-heimdal 
+- [x] You need to activate Heimdal. This will grant you temporary administrator rights for 30 minute. You can activate Heimdal by right-clicking the blue Heimdal icon in the bottom right corner of your screen and selecting "Privileges App Control - "Request Admin Privileges.” Then, enter your auID@uni.au.dk and AU-password, when you run a program as administrator. For more information, check this link:  https://medarbejdere.au.dk/en/administration/it/guides/security/activate-admin-rights-heimdal 
 
-Get you BitLocker recovery key, you will need each time you boot your laptop in windows. Check this link: https://support.microsoft.com/en-us/windows/security/encryption/find-your-bitlocker-recovery-key 
+- [x] Get your BitLocker recovery key. You will need it each time you boot your laptop in Windows. Check this link: https://support.microsoft.com/en-us/windows/security/encryption/find-your-bitlocker-recovery-key 
 
-Turn off BitLocker 
+- [x] Turn off BitLocker 
 
-Reboot your laptop and press ESC, F1, F2, F8 or F10 to access the BIOS settings. Change the booting option to start with USB 
+- [x] Reboot your laptop and press ESC, F1, F2, F8 or F10 to access the BIOS settings. Change the booting option to start with USB 
 
-Switch off your laptop. Insert the bootable USB and follow the instructions to install Ubuntu. Here you have to make a decision whether you want to have double boot or only Ubuntu. Check this info: https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview 
+- [x] Switch off your laptop. Insert the bootable USB and follow the instructions to install Ubuntu. Here you have to make a decision whether you want to have double boot or only Ubuntu. Check this info: https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview 
 
-Remember, if you selected double boot, when you access Windows, you will be asked to insert the BitLocker key (I still haven’t figured out how to turn it off O_O). 
+- [x] Remember, if you selected dual boot, when you access Windows, you will be asked to insert the BitLocker key (I still haven’t figured out how to turn it off O_O). 
 
 ### 3.3 Cluster 
 
@@ -87,31 +87,31 @@ Check this page: https://medarbejdere.au.dk/en/administration/it/guides/network/
 
 ## 4. Lab culture 
 
-Respect and inclusion   
+- Respect and inclusion   
 
-Collaboration and not competition   
+- Collaboration and not competition   
 
-Helping each other   
+- Helping each other   
 
-Open science principles   
+- Open science principles   
 
-Code should be shared early 
+- Code should be shared early 
 
-Negative results are valuable 
+- Negative results are valuable 
 
-Questions are always welcome 
+- Questions are always welcome 
 
-Students are expected to become increasingly independent over time 
+- Students are expected to become increasingly independent over time 
 
  
 
 ## 5. Meetings 
 
-Weekly lab meetings (presentations and journal club). 1h 
+- Weekly lab meetings (presentations and journal club). 1h 
 
-Weekly one-on-one meetings. I will give you a slot of approx. 30 min to 1h 
+- Weekly one-on-one meetings. I will give you a slot of approx. 30 min to 1h 
 
-Feel free to join the Plant and Genomic program meetings and the QGG Forum meetings. 
+- Feel free to join the Plant and Genomic program meetings and the QGG Forum meetings. 
 
   
 
@@ -123,34 +123,33 @@ They will provide you with more information and specific to your case.
 
 To find a house in Aarhus there are different options: 
 
-Student Housing Aarhus: https://international.au.dk/life/locations/housing/auhousing/student-housing-aarhus 
+- Student Housing Aarhus: https://international.au.dk/life/locations/housing/auhousing/student-housing-aarhus 
 
-https://www.archouse.dk/ 
+- https://www.archouse.dk/ 
 
-https://www.boligportal.dk/ 
+- https://www.boligportal.dk/ 
 
-https://www.boligsiden.dk/ 
+- https://www.boligsiden.dk/ 
 
-Some Facebook pages: For example, Aarhus international 
+- Some Facebook pages: For example, Aarhus international 
 
  
 
 ## 7. Programs 
 
-Conda: https://genome.au.dk/docs/installing-software/ 
+- Conda: https://genome.au.dk/docs/installing-software/ 
 
-FastOMA: https://github.com/DessimozLab/FastOMA 
+- FastOMA: https://github.com/DessimozLab/FastOMA 
 
-OMArk: https://github.com/DessimozLab/OMArk 
+- OMArk: https://github.com/DessimozLab/OMArk 
 
-BUSCO: https://busco.ezlab.org/ 
+- BUSCO: https://busco.ezlab.org/ 
 
-Hugging Face: https://huggingface.co/ 
+- Hugging Face: https://huggingface.co/ 
 
-Ete4: https://etetoolkit.github.io/ete/ 
+- Ete4: https://etetoolkit.github.io/ete/ 
 
  
-
  
 
 Feel free to add anything else you think necessary 
