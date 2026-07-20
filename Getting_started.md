@@ -48,7 +48,7 @@ In your fist day you will receive a card to access the building and a key to acc
 
 You will get a laptop on your first day. It usually has Windows installed, if you need to install Ubuntu, you need to do it yourself. I can help you with that, just let me know. If you decide to do it on your own, here is some information: 
 
-- [o] Prepare a bootable ubuntu USB 
+- [x] Prepare a bootable ubuntu USB 
 
 You need to activate Heimdal. This will grant you temporary administrator rights for 30 minute. You can activate Heimdal by right-clicking the blue Heimdal icon in the bottom right corner of your screen and selecting "Privileges App Control - "Request Admin Privileges.” Then, enter your auID@uni.au.dk and AU-password, when you run a program as administrator. For more information, check this link:  https://medarbejdere.au.dk/en/administration/it/guides/security/activate-admin-rights-heimdal 
 
